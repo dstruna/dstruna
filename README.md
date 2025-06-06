@@ -1,4 +1,4 @@
-# Hi! 👋 Welcome to Denis's portfolio profile!:
+# Hi! 👋 Welcome to Denis's portfolio profile!
 I'm currently transitioning into a career as a Data Analyst. <br>I'm focusing on building practical skills through hands-on projects using:<br><br>- SQL for data extraction and analysis<br>- Excel for reporting and data manipulation<br>- Tableau for creating interactive dashboards<br><br>In my free time, I enjoy learning new tools and improving my understanding of data. <br>I'm committed to building a strong portfolio that shows my progress and readiness for a data-focused role.<br><br>Feel free to explore my repositories and follow my journey into data analytics!
 
 
