@@ -12,9 +12,6 @@ I'm currently transitioning into a career as a Data Analyst. <br>I'm focusing on
 ![](https://nirzak-streak-stats.vercel.app/?user=dstruna&theme=shadow_blue&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=dstruna&theme=shadow_blue&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=light)
-
 ---
 [![](https://visitcount.itsvg.in/api?id=dstruna&icon=10&color=2)](https://visitcount.itsvg.in)
 
